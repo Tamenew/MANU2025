@@ -1,0 +1,236 @@
+[
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{}",
+    "Name": "test save",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "information related to user constraints",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"User_conFXM\",\"User_con\"]}",
+    "Name": "UC_info",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Objective Function Value",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"Reg_obj\"]}",
+    "Name": "_SysCost",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "All system costs (activity, flow, investments and salvage)",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"Cost_Act\",\"Cost_Comx\",\"Cost_Els\",\"Cost_Flo\",\"Cost_Flox\",\"Cost_Fom\",\"Cost_Inv\",\"Cost_ire\",\"Cost_Salv\"]}",
+    "Name": "All costs",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Annual Technology Costs",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"Cost_Fom\",\"Cost_Inv\",\"Cost_ire\"]}",
+    "Name": "Annual Technology Costs",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Consumption by Sector",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"FUEL_AGR\",\"FUEL_COM\",\"FUEL_IND\",\"FUEL_RSD\",\"FUEL_TRA\"]}",
+    "Name": "Consumption by Sector",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Check Dummy Imports",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_fout\"],\"processset\":[\"DUMIMP\"]}",
+    "Name": "Check Dummy Imports",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Consumption by Sector and fuel",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"FUEL_AGR\",\"FUEL_COM\",\"FUEL_IND\",\"FUEL_RSD\",\"FUEL_TRA\"],\"commodityset\":[\"NRG_ELC\",\"NRG_GAS\",\"NRG_MISS\",\"NRG_NUK\",\"NRG_PP\",\"NRG_RNW\",\"NRG_SOLID\"]}",
+    "Name": "Consumption by Sector and fuel",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Demands",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodityset\":[\"DEM\"]}",
+    "Name": "Demands",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "ELC Fuel Consumption by Plant Type",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"ELEBIO\",\"ELECOA\",\"ELEGAS\",\"ELEHYD\",\"ELENUC\",\"ELEOIL\",\"ELERNW\",\"ELESOL\",\"ELEWIN\"]}",
+    "Name": "ELC Fuel Consumption by Plant Type",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "ELC plants capacity and new capacity",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"ELECOA\",\"ELEGAS\",\"ELEHYD\",\"ELENUC\",\"ELEOIL\",\"ELERNW\",\"ELESOL\",\"ELEWIN\"]}",
+    "Name": "ELC Plants Capacity",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "ELC plants new installed capacity in each period",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_Ncap\"],\"processset\":[\"ELEBIO\",\"ELECOA\",\"ELEGAS\",\"ELEHYD\",\"ELENUC\",\"ELEOIL\",\"ELERNW\",\"ELESOL\",\"ELEWIN\"]}",
+    "Name": "ELC Plants New Capacity",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "ELC Plants Production",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_Act\"],\"processset\":[\"ELEBIO\",\"ELECOA\",\"ELEGAS\",\"ELEHYD\",\"ELENUC\",\"ELEOIL\",\"ELERNW\",\"ELESOL\",\"ELEWIN\"]}",
+    "Name": "ELC Plants Production",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Emissions by Sector",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"AGRCO2\",\"COMCO2\",\"ELCCO2\",\"INDCO2\",\"RSDCO2\",\"TRACO2\"],\"commodityset\":[\"ENV\"]}",
+    "Name": "Emissions by Sector",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Electric Generation by Fuel Group",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"PP_FOSSIL\",\"PP_NUCLEAR\",\"PP_OTHER\",\"PP_RENEW\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "ELC Production by Fuel Group",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "`Peak Equation",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"EQ_Peak\",\"EQ_PeakM\"]}",
+    "Name": "EQ_Peak",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Fuel Supply",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"processset\":[\"IRE\"]}",
+    "Name": "Fuel Supply",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Prices_All",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"]}",
+    "Name": "Prices_All",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Prices_All",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"ENV\"]}",
+    "Name": "Prices_CO2",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Energy Prices",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"EQ_CombalM\"],\"commodityset\":[\"NRG\"]}",
+    "Name": "Prices_Energy",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Process Margina",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_ActM\",\"VAR_CapM\",\"VAR_NcapM\"]}",
+    "Name": "Process Marginals",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Supp",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"],\"processset\":[\"EXP\",\"IMP\",\"MIN\",\"TRD_ENDO\"]}",
+    "Name": "Process_Trade",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Refinery input and output",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"process\":[\"REFEOIL00\"],\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"]}",
+    "Name": "Refinery",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Total CO2 emissions (available only from Step 012)",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"TOTCO2\"],\"commodityset\":[\"ENV\"]}",
+    "Name": "Total CO2 Emissions",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Endogenous gas trade",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"process\":[\"TU_GAS_REG2_REG1_01\"],\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"]}",
+    "Name": "Trade_Endogenous-GAS",
+    "UserName": "mtmte"
+  },
+  {
+    "Settings": {},
+    "Description": "Electricity endogenous trade",
+    "EditedOn": "2025-09-15 16:00",
+    "LastAccessed": "2025-09-15 16:00",
+    "Filter": "{\"process\":[\"TB_ELC_REG1_REG2_01\"],\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"]}",
+    "Name": "Trade_Endogenous-ELC",
+    "UserName": "mtmte"
+  }
+]

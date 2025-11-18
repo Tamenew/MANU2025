@@ -1,0 +1,17 @@
+{
+  "ApplicationVersion": "4.1.1.1",
+  "UserName": "mtmte",
+  "Date": "2025-09-15 20:04",
+  "FormSettings": {
+    "DimensionsWithColumnsInfo": {
+      "scenario": {
+        "Name": 50,
+        "Select": 20
+      },
+      "studyname": {
+        "Name": 50,
+        "Select": 20
+      }
+    }
+  }
+}
